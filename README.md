@@ -1,23 +1,23 @@
 # RaspberryPi5SetupAndApp
 
-## �N�����̐ݒ�
+## 起動時の設定
 
-* �L��LAN�Őڑ����Ă���ƋN�����Ɏ����I��IP�A�h���X������U���Ă���(����̏ꍇ��192.168.50.19������)
-* Enable Raspberry Pi Connect��L���ɂ���
+* 有線LANで接続していると起動時に自動的にIPアドレスが割り振られている(自宅の場合は192.168.50.19だった)
+* Enable Raspberry Pi Connectを有効にする
 
-## �v���L�V�̐ݒ�
+## プロキシの設定
 
-* �L���\��
+* 記入予定
 
-* �m�F���@
-  * web�u���E�U�ɐڑ��ł��邩�m�F����
+* 確認方法
+  * webブラウザに接続できるか確認する
 
-## �N����̃A�b�v�f�[�g
+## 起動後のアップデート
 
-## �K�v�ȃ��C�u�����̃C���X�g�[��
+## 必要なライブラリのインストール
 
-## �L��LAN�ݒ���@
+## 有線LAN設定方法
 
-## �����[�g�f�X�N�g�b�v�̐ݒ�
+## リモートデスクトップの設定
 
-## ���L�t�H���_�̐ݒ�
+## 共有フォルダの設定
