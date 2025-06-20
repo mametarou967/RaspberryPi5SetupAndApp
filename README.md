@@ -2,7 +2,6 @@
 
 # TODO
 
-* [ ] ヘッドレス環境の確認
 * [ ] グラフ化と集計方法
 * [ ] パトランプを正しく判定する方法の考察
 
@@ -16,6 +15,12 @@ https://qiita.com/mochi_2225/items/15c1e7c1c1ae79f97501
 
 ```
 https://qiita.com/gae-22/items/308f3f375cf0f5b0e5cb
+```
+
+# ヘッドレス環境
+
+```
+https://zenn.dev/thorie/articles/548emb-raspberry-pi-5-os-setup
 ```
 
 # ブラウザで全角/半角を切り替えれるようにする
