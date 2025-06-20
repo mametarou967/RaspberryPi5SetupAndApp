@@ -1,5 +1,17 @@
 # RaspberryPi5SetupAndApp
 
+# IP設定
+
+```
+https://qiita.com/mochi_2225/items/15c1e7c1c1ae79f97501
+```
+
+# プロキシ設定
+
+```
+https://qiita.com/gae-22/items/308f3f375cf0f5b0e5cb
+```
+
 # ブラウザで全角/半角を切り替えれるようにする
 
 * 以下のコマンドを実行
